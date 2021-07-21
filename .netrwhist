@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/etc/dbus-1/system.d'
+let g:netrw_dirhist_2='/home/eg/js_typescript/revealjs/reveal.js-docker/scripts/src'
+let g:netrw_dirhist_1='/home/eg/js_typescript/revealjs/reveal.js-docker/scripts'
+let g:netrw_dirhist_0='/home/eg/js_typescript/vue2-lyric/server'
+let g:netrw_dirhist_9='/home/eg/js_typescript/vue2-lyric'
+let g:netrw_dirhist_8='/home/eg/js_typescript/vue2-lyric/src'
+let g:netrw_dirhist_7='/home/eg/js_typescript/vue2-lyric'
+let g:netrw_dirhist_6='/home/eg/js_typescript/vue2-lyric/public'
+let g:netrw_dirhist_5='/home/eg/js_typescript/vuecli-into-docker/src/ioc'
+let g:netrw_dirhist_4='/home/eg/js_typescript/vuecli-into-docker/src/router'
